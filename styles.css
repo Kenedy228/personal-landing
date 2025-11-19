@@ -1,0 +1,16 @@
+step-number {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1;
+}
+
+.step-arrow {
+  height: 55px;
+  object-fit: contain;
+}
+
+.lead {
+  font-size: 1.35rem;
+  line-height: 1.55;
+}
